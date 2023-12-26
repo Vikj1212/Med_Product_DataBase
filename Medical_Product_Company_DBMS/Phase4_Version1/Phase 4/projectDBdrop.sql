@@ -1,0 +1,9 @@
+Drop table F23_S003_T7_Feedback cascade constraints;
+Drop table F23_S003_T7_Shipped cascade constraints;
+Drop table F23_S003_T7_Buys cascade constraints;
+Drop table F23_S003_T7_Customer cascade constraints;
+Drop table F23_S003_T7_Retail cascade constraints;
+Drop table F23_S003_T7_To_Be_Packaged cascade constraints;
+Drop table F23_S003_T7_Manufacturing cascade constraints;
+Drop table F23_S003_T7_Sales_Marketing cascade constraints;
+Drop table F23_S003_T7_Compounding cascade constraints;
